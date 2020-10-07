@@ -1,3 +1,3 @@
 # INFO-501
 ## Le but :
-### __ Nous allons expliquer l'info 501 __ 
+### __Nous allons expliquer l'info 501__ 
